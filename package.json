@@ -23,6 +23,7 @@
     "react-native": "github:exponentjs/react-native#sdk-10.0.0"
   },
   "devDependencies": {
-    "react-scripts": "^0.4.1"
+    "react-scripts": "^0.4.1",
+    "redux-logger": "^2.6.1"
   }
 }
