@@ -1,13 +1,25 @@
 {
   "name": "exponent-reddit",
-  "version": "0.0.0",
-  "description": "Hello Exponent!",
-  "author": null,
-  "private": true,
-  "main": "main.js",
+  "version": "1.0.0",
+  "description": "Playing with exponent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/exponent-reddit.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/exponent-reddit/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/exponent-reddit#readme",
   "dependencies": {
-    "exponent": "10.0.0",
     "react": "~15.3.1",
+    "react-dom": "~15.3.1",
+    "exponent": "10.0.0",
     "react-native": "github:exponentjs/react-native#sdk-10.0.0"
   }
 }
